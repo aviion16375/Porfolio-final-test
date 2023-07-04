@@ -711,6 +711,9 @@ text-align: center;
     top: 95rem;
     z-index: 96;
   }
+      .footer-text{
+    font-size: 15px;
+  }
 
 }
 
